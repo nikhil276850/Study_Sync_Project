@@ -136,7 +136,7 @@ header{
     text-align: center;
     justify-content: center;
     gap: 1rem;
-    animation: slidingfromleft 5s;
+    animation: slidingfromleft 1s;
 }
 @keyframes slidingfromleft {
     0%{
